@@ -58,5 +58,6 @@ Please use the following to cite this repository in publications
   year = {2025},
   publisher = {GitHub},
   journal = {GitHub repository},
+  howpublished = {\url{https://github.com/FarStryke21/RL-VP_CoverageEnv}},
 }
 ```
